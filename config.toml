@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://mysite-lulg.firebaseapp.com/"
 languageCode = "en-US"
 title = "Liang LIU"
 # Enable comments by entering your Disqus shortname
@@ -17,12 +17,12 @@ hignlight=true
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
+  custom_css = ["/css"]
+  custom_js  = ["/js"]
 
 [params.social]
   Github        = "username"
-  Email         = "email@example.com"
+  Email         = "lulgabc@gmail.com"
   Twitter       = "username"
   LinkedIn      = "username"
   Stackoverflow = "username"
